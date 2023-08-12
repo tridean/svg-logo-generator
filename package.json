@@ -27,5 +27,8 @@
   "homepage": "https://github.com/tridean/svg-logo-generator#readme",
   "devDependencies": {
     "jest": "^29.6.2"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.10"
   }
 }
